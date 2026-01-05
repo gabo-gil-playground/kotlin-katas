@@ -12,8 +12,8 @@ Some Kotlin katas / challenges to improve language skills, clean code & best pra
 * find array min max values (code and unit test cases)
 * find Fibonacci Nth number (code and unit test cases)
 ## Contact
-Blog: https://gabelopment.wordpress.com/
+Blog: https://somedevnotes.wordpress.com/
 
-Github: https://github.com/elgitdegabi
+Github: https://github.com/gabo-gil-playground
 
 Linkedin: https://www.linkedin.com/in/gabogil/
